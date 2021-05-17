@@ -1,2 +1,5 @@
-# Responsive Website
+# Responsive Website with:
+- Grid
+- Flexbox
+- Animations
 
